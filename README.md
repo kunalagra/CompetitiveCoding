@@ -1,2 +1,2 @@
 # CompetitiveCoding
-A Repo of all solved Qs across various competitons
+A Repo of all solved Qs across various platforms
